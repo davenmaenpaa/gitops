@@ -1,0 +1,4 @@
+appOfApps:
+  - name: argocd-gitops
+    repoURL:
+    path:
